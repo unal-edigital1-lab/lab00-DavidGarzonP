@@ -1,4 +1,6 @@
-ï»¿# lab01- sumador 
-laboratorio 01 introducciÃ³n a HDL
+# lab01- sumador 
+laboratorio 01 introducción a HDL
 
-David Santiago GarzÃ³n Pedraza
+David Santiago Garzón Pedraza
+
+este es el laboratorio de prueba 

@@ -1,6 +1,6 @@
 # lab01- sumador 
-laboratorio 01 introducción a HDL
+laboratorio 01 introducciÃ³n a HDL
 
-David Santiago Garzón Pedraza
+David Santiago GarzÃ³n Pedraza
 
-este es el laboratorio de prueba 
+En primera instancia, se procede a implementar un sumador de 1 bit 
